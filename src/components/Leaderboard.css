@@ -1,0 +1,18 @@
+.Leaderboard-avatar {
+  float: left;
+}
+
+.Leaderboard-username {
+  margin-left: 55px;
+  text-align: left;
+}
+
+.Leaderboard-theader th {
+  text-align: center;
+  font-weight: bold;
+}
+
+.Leaderboard-table {
+  margin-top: 50px;
+  border: 2px solid black;
+}
