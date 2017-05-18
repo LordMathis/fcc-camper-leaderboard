@@ -1,7 +1,5 @@
 # FreeCodeCamp Camper Leaderboard
 
-Markdown previewer built with React.
-
 ## Live Demo:
 https://fccleaderbrd.herokuapp.com/
 
